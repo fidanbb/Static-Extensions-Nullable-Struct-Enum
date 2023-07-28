@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/bin/Debug/net6.0/Static-Extension-Enum-Nullable
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/bin/Debug/net6.0/Static-Extension-Enum-Nullable.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/bin/Debug/net6.0/Static-Extension-Enum-Nullable.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/bin/Debug/net6.0/Static-Extension-Enum-Nullable.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/bin/Debug/net6.0/Static-Extension-Enum-Nullable.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/refint/Static-Extension-Enum-Nullable.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/Static-Extension-Enum-Nullable.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/Static-Extension-Enum-Nullable/Static-Extension-Enum-Nullable/obj/Debug/net6.0/ref/Static-Extension-Enum-Nullable.dll

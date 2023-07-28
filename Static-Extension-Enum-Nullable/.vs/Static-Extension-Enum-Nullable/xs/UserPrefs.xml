@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{63F02BF6-D230-45F9-9B7F-1B22A98AFFA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Static-Extension-Enum-Nullable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Static-Extension-Enum-Nullable/Program.cs">
+    <Files>
+      <File FileName="Static-Extension-Enum-Nullable/Program.cs" Line="176" Column="2" />
+      <File FileName="Static-Extension-Enum-Nullable/Person.cs" />
+      <File FileName="Static-Extension-Enum-Nullable/Car.cs" />
+      <File FileName="Static-Extension-Enum-Nullable/Extensions/CustomExtensions.cs" />
+      <File FileName="Static-Extension-Enum-Nullable/Test.cs" />
+      <File FileName="Static-Extension-Enum-Nullable/Book.cs" />
+      <File FileName="Static-Extension-Enum-Nullable/Animal.cs" />
+      <File FileName="Static-Extension-Enum-Nullable/Roles.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Static-Extension-Enum-Nullable" expanded="True">
+            <Node name="Static-Extension-Enum-Nullable" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
