@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1D0EA0E6-E60E-43D9-8089-649987E6D508}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactorialExtension/Controllers/CustomExtensionsController.cs">
+    <Files>
+      <File FileName="FactorialExtension/Program.cs" Line="7" Column="1" />
+      <File FileName="FactorialExtension/Extensions/CustomExtensions.cs" Line="16" Column="4" />
+      <File FileName="FactorialExtension/Controllers/CustomExtensionsController.cs" Line="37" Column="62" />
+      <File FileName="FactorialExtension/Helpers/FacorialMessages.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactorialExtension" expanded="True">
+            <Node name="FactorialExtension" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomExtensionsController.cs" selected="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FactorialExtension PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/bin/Debug/net7.0/FactorialExtension
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/bin/Debug/net7.0/FactorialExtension.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/bin/Debug/net7.0/FactorialExtension.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/bin/Debug/net7.0/FactorialExtension.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/bin/Debug/net7.0/FactorialExtension.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/refint/FactorialExtension.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/FactorialExtension.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm10/FactorialExtension/FactorialExtension/obj/Debug/net7.0/ref/FactorialExtension.dll
